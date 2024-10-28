@@ -24,7 +24,7 @@ const Routers = () => {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/mynetwork" element={<UnderConstruction/>} />
-        {/* <Route path="/group" element={<Join/>} /> */}
+
         <Route path="/jobs" element={<UnderConstruction />} />
         <Route path="/messaging" element={<UnderConstruction />} />
         <Route path="/notifications" element={<UnderConstruction />} />
